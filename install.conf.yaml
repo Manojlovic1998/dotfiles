@@ -3,6 +3,8 @@
     link:
       create: true # Create dirs if they don"t exist
       force: true # Overwrite the existing configs if they exist
+# Clean any dead links that point to the dotfile dir
+- clean: ["~"]
 # Soft links
 - link:
   ~/.zshrc:
