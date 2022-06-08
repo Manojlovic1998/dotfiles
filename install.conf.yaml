@@ -1,0 +1,13 @@
+- link:
+  ~/.zshrc:
+    path: zshrc
+  ~/.zprofile:
+    path: zprofile
+  ~/.pk10k.zsh:
+    path: p10k.zsh
+  ~/.tmux.conf:
+    path: tmux.conf
+  ~/.config/lf/lfcd.sh:
+    path: lf/lfcd.sh
+  ~/.config/alacritty/alacritty.yml:
+    path: alacritty/alacritty.yml
