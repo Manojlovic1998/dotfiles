@@ -1,3 +1,9 @@
+# Default settings for install behavior
+- defaults:
+    link:
+      create: true # Create dirs if they don"t exist
+      force: true # Overwrite the existing configs if they exist
+# Soft links
 - link:
   ~/.zshrc:
     path: zshrc
