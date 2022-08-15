@@ -19,3 +19,5 @@
     path: lf/lfcd.sh
   ~/.config/alacritty/alacritty.yml:
     path: alacritty/alacritty.yml
+  ~/.config/nvim/:
+    path: nvim/*
